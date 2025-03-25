@@ -9,3 +9,8 @@
 ## 技术突破与前景🎉
 
 大唐恩智浦的这个芯片的上市，有望解决现有电池管理管理系统对于电化学阻抗谱在线监测的困境。基于这个芯片的能力，我们开发的这个建模技术，具有非常大的应用前景。
+
+<center>
+    <img src="https://github.com/user-attachments/assets/22dee6cb-a47d-4329-a2ca-791b4076dcbe" alt="技术路线图" style="width: 100%; max-width: 300px;">
+</center>
+
